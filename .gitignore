@@ -1,2 +1,6 @@
-server_private.key
-server_public.key
+# いったん全部無視
+*
+# 例外：リポ直下の autorace JSON / README / .gitignore は追跡
+!autorace_race_list_*.json
+!README.md
+!.gitignore
