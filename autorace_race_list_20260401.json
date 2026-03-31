@@ -1,0 +1,134 @@
+﻿[
+  {
+    "venue": "山陽",
+    "grade": "",
+    "races": [
+      {
+        "race_number": 1,
+        "start_time": "19:53",
+        "closed_at": "19:51",
+        "players": [
+          "1松尾亜生理",
+          "2斎藤隆充",
+          "3吉松憲治",
+          "4丹下昂紀",
+          "5仲口武志",
+          "6永島潤太郎"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 2,
+        "start_time": "20:20",
+        "closed_at": "20:18",
+        "players": [
+          "1国本一",
+          "2西崎洋一郎",
+          "3西村義正",
+          "4穴見和正",
+          "5角翔太郎",
+          "6泉田修佑"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 3,
+        "start_time": "20:48",
+        "closed_at": "20:46",
+        "players": [
+          "1且原朋弥",
+          "2竹中一成",
+          "3伊東玲衣",
+          "4福永貴史",
+          "5前田淳",
+          "6山本将之"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 4,
+        "start_time": "21:16",
+        "closed_at": "21:14",
+        "players": [
+          "1磯部真樹",
+          "2日室志郎",
+          "3田方秀和",
+          "4中野政則",
+          "5藤岡一樹",
+          "6上和田拓海"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 5,
+        "start_time": "21:44",
+        "closed_at": "21:42",
+        "players": [
+          "1古谷匠",
+          "2番田隆弘",
+          "3稲原良太郎",
+          "4松尾彩",
+          "5遠藤誠",
+          "6山本翔"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 6,
+        "start_time": "22:12",
+        "closed_at": "22:10",
+        "players": [
+          "1畦坪孝雄",
+          "2重富英雄",
+          "3辰巳裕樹",
+          "4早津康介",
+          "5春本綾斗",
+          "6丸山智史"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 7,
+        "start_time": "22:40",
+        "closed_at": "22:38",
+        "players": [
+          "1別府末彦",
+          "2岩永清文",
+          "3岡谷美由紀",
+          "4岡松忠",
+          "5村田光希",
+          "6平田雅崇"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 8,
+        "start_time": "23:08",
+        "closed_at": "23:06",
+        "players": [
+          "1山本智大",
+          "2柴田紘志",
+          "3矢野正剛",
+          "4小栗勝太",
+          "5阿部剛士",
+          "6丹村飛竜"
+        ],
+        "class_category": "予選"
+      },
+      {
+        "race_number": 9,
+        "start_time": "23:40",
+        "closed_at": "23:38",
+        "players": [
+          "1安東久隆",
+          "2今田真輔",
+          "3池浦一博",
+          "4山崎進",
+          "5緒方浩一",
+          "6佐藤励"
+        ],
+        "class_category": "予選"
+      }
+    ]
+  }
+]
